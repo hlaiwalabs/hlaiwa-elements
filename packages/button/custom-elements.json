@@ -1,0 +1,16 @@
+{
+  "version": "experimental",
+  "tags": [
+    {
+      "name": "field-element",
+      "path": "./src/field-element.ts",
+      "description": "A field element.",
+      "slots": [
+        {
+          "name": "",
+          "description": "This element has a slot"
+        }
+      ]
+    }
+  ]
+}

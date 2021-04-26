@@ -1,0 +1,16 @@
+{
+  "version": "experimental",
+  "tags": [
+    {
+      "name": "button-element",
+      "path": "./src/button-element.ts",
+      "description": "A button element.",
+      "slots": [
+        {
+          "name": "",
+          "description": "This element has a slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,19 @@
-/node_modules/
+*/node_modules/*
 /lib/
 /test/
 
-# top level source
-my-element.js
-my-element.js.map
-my-element.d.ts
-my-element.d.ts.map
+button-element.js
+button-element.js.map
+button-element.d.ts
+button-element.d.ts.map
+
+field-element.js
+field-element.js.map
+field-element.d.ts
+field-element.d.ts.map
+
+select-element.js
+select-element.js.map
+select-element.d.ts
+select-element.d.ts.map
+node_modules
